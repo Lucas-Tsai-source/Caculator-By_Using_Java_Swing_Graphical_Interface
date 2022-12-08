@@ -1,8 +1,7 @@
 # Caculator-By-Using-Java
 
 ## Introduction
-I use Java to create a simple caculator. As you can see this caculator can solve some simple math problems. You can download and refer to it!
-
+An useful calculator can solve simple mathematical problem.
 <br />
 
 ## Features
