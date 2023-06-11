@@ -1,7 +1,7 @@
 # Caculator-By-Using-Java
 
 ## Introduction
-An useful calculator can solve simple mathematical problem.
+This useful calculator is developed by using the Java Swing graphical interface to solve mathematical problems.
 <br />
 
 ## Features
