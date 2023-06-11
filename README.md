@@ -1,4 +1,4 @@
-# Caculator-By-Using-Java
+# Caculator-By-Using-Java-Swing-Graphical-Interface
 
 ## Introduction
 This useful calculator is developed by using the Java Swing graphical interface to solve mathematical problems.
